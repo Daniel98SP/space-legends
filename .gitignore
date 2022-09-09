@@ -1,0 +1,14 @@
+Debug
+Release
+libs
+ikpFlac.dll
+ikpMP3.dll
+irrKlang.dll
+irrKlang.exp
+space_legends.aps
+space_legends.filter
+space_legends.rc
+space_legends.user
+space_legends.vcxproj
+space_legends.vcxproj.filters
+space_legends.vcxproj.user
